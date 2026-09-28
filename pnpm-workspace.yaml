@@ -1,0 +1,7 @@
+packages:
+  - packages/*
+autoInstallPeers: false
+overrides:
+  typescript: 6.0.3
+patchedDependencies:
+  '@react-native-async-storage/async-storage': patches/@react-native-async-storage__async-storage.patch

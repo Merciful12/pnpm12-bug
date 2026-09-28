@@ -1,0 +1,9 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@types/react-native-firebase__crashlytics": "npm:@react-native-firebase/crashlytics@23.8.2",
+    "@types/react-native": "npm:react-native@0.86.2"
+  }
+}
